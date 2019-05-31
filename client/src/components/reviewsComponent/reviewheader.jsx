@@ -16,6 +16,7 @@ var ReviewHeader = function (props) {
             <span>location {Location} </span><span><b>{User_Contributions}</b> contributions </span><span><b>{Helpful_Votes}</b> helpful votes</span>
           </div>
         </div>
+        <img className="follow" src="./icons/Follow.png"></img>
       </div>
     </div>
   )

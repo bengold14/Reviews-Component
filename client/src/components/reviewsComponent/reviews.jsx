@@ -30,7 +30,19 @@ var reviews = function (props) {
           />
         </div>
       </div>
-      <span id="black" className="react-button on-click">Helpful</span><span id="black" className="react-button on-click">Repost</span><Share/>
+      <div className="react-button-container">
+        <span id="black" className="react-button on-click">
+          <img className="react-helpful"></img>
+          <span className="react-text">Helpful</span>
+        </span>
+        <span id="black" className="react-button on-click">
+          <img className="react-repost"></img>
+          <span>
+            <span className="react-text">Repost</span>
+          </span>
+        </span>
+        <Share/>
+      </div>
     </div>
   )
 }

@@ -44,8 +44,8 @@ class Sort extends React.Component {
             ratingCount={this.props.ratingCount}
           />
         </div>}
-        {this.state.qa && <div className="placeholder">QA TIME BROS</div>}
-        {this.state.roomTips && <div className="placeholder">ROOM TIPS TIME BROS</div>}
+        {this.state.qa && <div className="placeholder">UNDER CONSTRUCTION</div>}
+        {this.state.roomTips && <div className="placeholder">UNDER CONSTRUCTION</div>}
       </div>
     )
   }

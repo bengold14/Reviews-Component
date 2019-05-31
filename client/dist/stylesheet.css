@@ -18,7 +18,6 @@
   line-height:0;
 }
 
-
 /**************************************/
 /**************************************/
 /**************************************/
@@ -332,6 +331,11 @@
   padding: 2.5%;
 }
 
+.follow {
+  float: right;
+  width: 12%;
+}
+
 .image-cropper {
   display: inline-block;
   width: 75px;
@@ -420,9 +424,61 @@
 
 /*share buttons*/
 
+.react-button-container {
+  padding-left: 2.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
 .react-button {
-  margin-left: 2%;
+  margin-right: 2%;
   color: gray;
+}
+
+.react-text {
+  margin-left: 1%;
+}
+
+.react-share {
+  content: url("./icons/Share.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
+}
+
+.react-button:hover .react-share {
+  content: url("./icons/Share-Active.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
+}
+
+.react-repost {
+  content: url("./icons/Repost.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
+}
+
+.react-button:hover .react-repost {
+  content: url("./icons/Repost-Active.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
+}
+
+.react-helpful {
+  content: url("./icons/Helpful.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
+}
+
+.react-button:hover .react-helpful {
+  content: url("./icons/Helpful-Active.png");
+  width: 2.5vw;
+  height: 2.5vw;
+  margin-right: .5%;
 }
 
 .hidden-link {
