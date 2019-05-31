@@ -79,7 +79,7 @@
 
 .write-review-container {
   margin: 2%;
-  margin-bottom: 4%;
+  padding: 16px;
   border-bottom: 1px solid rgb(229, 229, 229);
   display: flex;
   flex-direction: row; 
