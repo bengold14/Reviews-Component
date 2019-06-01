@@ -125,6 +125,7 @@ class App extends React.Component {
   componentDidMount() {
     this.getAllData()
   }
+
   render () {
     let data = this.state.searchedData.length ? this.state.searchedData : this.state.data; //need to fix the state
     data = this.state.filteredData.length && this.state.filteredData !== "empty" ? this.state.filteredData : data; //need to fix the state

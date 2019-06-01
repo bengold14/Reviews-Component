@@ -29,9 +29,11 @@ class Body extends React.Component {
         {dynamicBody}
         </Highlight>
         <div className="read-more-container">
-          <span onClick={this.changeRead} className="on-click">{this.state.readMore ? 'Read More' : 'Read Less'}</span>
-          <span className="read-more-carrot-container">
-            <span className={this.state.readMore ? 'read read-more on-click': 'read read-less on-click'} ></span>
+          <span onClick={this.changeRead}>{
+            this.state.readMore ? 
+            <span>Read More <img className="read-more-icon" src="./icons/DropDownArrow.png"></img></span> 
+            : 
+            <span>Read Less <img className="read-more-icon" src="./icons/UpArrowBlack.png"></img></span>}
           </span>
         </div>
         <div><b id="black">Date of Stay: </b>{Date_of_Stay}</div>

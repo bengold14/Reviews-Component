@@ -27,7 +27,6 @@ class Search extends React.Component {
     if(e.keyCode == 13 && e.shiftKey == false) {
       e.preventDefault();
       this.props.search(this.state.input);
-      this.handleClear
     }
   }
 
