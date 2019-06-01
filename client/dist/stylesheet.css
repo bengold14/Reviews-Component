@@ -21,6 +21,7 @@
 .reviews-component-container {
   font:16px Times;
   color: black;
+  width: 70%;
 }
 
 /**************************************/
@@ -33,6 +34,10 @@
   background-color: white;
   border: 1px solid lightgray; 
   margin-bottom: 1%;
+}
+
+.tag-container {
+  font: 20pt;
 }
 
 .tag-container:after {
@@ -230,7 +235,6 @@
   background-color: white;
 }
 
-
 .search-icon {
   width: 4%;
   display: inline-block;
@@ -243,6 +247,7 @@
   display: inline-block;
   font-size: 2vw;
   color: grey;
+  vertical-align: 30%;
 }
 
 .input:focus {
@@ -253,13 +258,23 @@
   font-size: 2vw;
   color: black;
   outline-width: 0;
+  vertical-align: 30%;
 }
 
 .cancel-search-icon {
+  width: 0%;
+  height: 0%;
+  display: inline-block;
+  margin-left: 5%;
+  vertical-align: 30%;
+}
+
+.search-container:focus-within .cancel-search-icon {
   width: 2%;
   height: 2%;
   display: inline-block;
   margin-left: 5%;
+  vertical-align: 30%;
 }
 
 .no-results-search {
@@ -368,7 +383,13 @@
   padding-bottom: 4%;
 }
 
-.location {
+.location-icon {
+  width: 15px;
+  vertical-align: text-bottom;
+}
+
+.location-spacer {
+  width: 8px;
 }
 
 /*body*/
@@ -396,10 +417,15 @@
   margin-bottom: 1%;
 }
 
-.read-more:hover {
+.read-more-container:hover {
   margin-top: 1%;
   margin-bottom: 1%;
-  text-decoration: underline;
+  color: black;
+  cursor: pointer;
+}
+
+.read-more-icon {
+  width: 10px;
 }
 
 .rating {
@@ -418,13 +444,6 @@
   height: 0;
   width: 0;
   border: 4px solid transparent; 
-}
-
-.read-less {
-  border-bottom-color: black;
-}
-.read-more {
-  border-top-color: black;
 }
 
 /*share buttons*/
@@ -503,9 +522,7 @@
   filter: drop-shadow(0 2px 4px rgba(0,0,0,.25));
   background-color: #fff;
   border-radius: 2px;
-  margin-left: 8%;
-  margin-top: 1%;
-  /* margin-bottom: 20px; */
+  margin-left: 17%;
   z-index: 10;
   padding: 16px;
 }
@@ -522,20 +539,22 @@
 }
 
 .share-text {
-  vertical-align: middle;
-  padding-bottom: 25px;
-  padding-top: 5px;
-  padding-left: 10px;
-  /* margin-bottom: 10px; */
-  /* vertical-align: text-bottom; */
+  vertical-align: 45%;
+  padding: 5px;
+}
+
+.email-container:hover {
+  color:black;
+  cursor: pointer;
+}
+
+.copy-container:hover {
+  color:black;
+  cursor: pointer;
 }
 
 .share-icon {
-  /* Bens Code */
   height: 2.75vw;
   width: 2.75vw;
-  margin-bottom: -10px; 
-  /* height: 2.5vw;
-  width: 2.5vw; */
 }
 

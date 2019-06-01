@@ -84,8 +84,8 @@ class App extends React.Component {
   }
 
   getAllData () {
-    // axios.get(`/review/${window.location.href.slice(-2)}`) //for local testing
-    axios.get(`http://3.13.140.54:3002/review/${window.location.href.slice(32)}`) //for deployed 
+    axios.get(`/review/${window.location.href.slice(-2)}`) //for local testing
+    // axios.get(`http://3.13.140.54:3002/review/${window.location.href.slice(32)}`) //for deployed 
     .then((results)=>{
       this.setState({
         data:results.data
@@ -125,6 +125,7 @@ class App extends React.Component {
   componentDidMount() {
     this.getAllData()
   }
+
   render () {
     let data = this.state.searchedData.length ? this.state.searchedData : this.state.data; //need to fix the state
     data = this.state.filteredData.length && this.state.filteredData !== "empty" ? this.state.filteredData : data; //need to fix the state
