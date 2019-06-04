@@ -1,8 +1,8 @@
-https://gfycat.com/ifr/glitteringunluckycaracal
-
 # TripAdvisor Reviews Component
 
 > Project description
+
+<img src="https://gfycat.com/ifr/glitteringunluckycaracal" height="80%" width="80%">
 
 ## Related Projects
 
