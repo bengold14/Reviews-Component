@@ -2,7 +2,7 @@
 
 > Project description
 
-<img src="https://www.gfycat.com/ifr/deliriouslineardikkops" height="80%" width="80%">
+![]("https://www.gfycat.com/ifr/deliriouslineardikkops")
 
 ## Related Projects
 
