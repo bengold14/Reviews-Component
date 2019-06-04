@@ -2,7 +2,7 @@
 
 > Project description
 
-![Reviews GIF]("DeliriousLinearDikkops-small.gif")
+![Reviews GIF]("./DeliriousLinearDikkops-small.gif")
 
 ## Related Projects
 
