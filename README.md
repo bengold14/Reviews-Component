@@ -2,7 +2,7 @@
 
 > Project description
 
-![Reviews GIF]("./DeliriousLinearDikkops-small.gif")
+![Reviews GIF]("https://gfycat.com/ifr/deliriouslineardikkops")
 
 ## Related Projects
 
