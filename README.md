@@ -24,9 +24,15 @@ npm run start
 
 ```
 
-If running the project on a local machine comment out line in index.jsx and uncomment out line in the same file. This is to update the IP reference for the server.
+### Running on Local Machine (http://localhost:3002/hotels/{INSERTID#}/)
 
-If deploying the component you will need to update the IP address and update the slice function on line to get the hotel ID from the URL
+If running the project on a local machine comment out line 88 in index.jsx and uncomment out line 87 in the same file. This is to update the IP reference for the server.  The slice function may also need to be updated to return the hotel ID at the end of the URL.  
+
+### Deploying (http://{INSERT-IP-ADRRESS}:3002/hotels/{INSERT-ID#}/)
+
+If running the project on a seperate IP address uncomment line 88 in index.jsx and comment out line 87 in the same file. This is to update the IP reference for the server.  The slice function may also need to be updated to return the hotel ID at the end of the URL.  
+
+### Linking in the Proxy Server (http://{INSERT-IP-ADRRESS}:3003/hotels/{INSERT-ID#}/)
 
 If using the proxy server linked in the related projects you will need to update the IP addresses in the Ben-Proxy/index.html file and if you are interested in linking the other related components those IP addresses will need to be uncommented out and updated as well.  You will need to make sure the Ben-Proxy/server.js file is running.
 
