@@ -2,9 +2,7 @@
 
 > Project description
 
-![Reviews GIF]("https://gfycat.com/ifr/deliriouslineardikkops")
-<img src="https://gfycat.com/ifr/deliriouslineardikkops" height="80%" width="80%">
-<iframe src='https://gfycat.com/ifr/DeliriousLinearDikkops' frameborder='0' scrolling='no' allowfullscreen width='640' height='559'></iframe><p> <a href="https://gfycat.com/deliriouslineardikkops">via Gfycat</a></p>
+<img src="https://thumbs.gfycat.com/DeliriousLinearDikkops-size_restricted.gif" height="80%" width="80%">
 
 ## Related Projects
 
