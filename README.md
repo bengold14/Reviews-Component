@@ -2,7 +2,7 @@
 
 > Project description
 
-<img src="https://gfycat.com/DeliriousLinearDikkops"></img>
+![]("DeliriousLinearDikkops-small.gif")
 
 ## Related Projects
 
