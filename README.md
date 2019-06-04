@@ -6,7 +6,7 @@ Reviews-Component is a project which copied the functionality and styling of the
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
+  - https://github.com/hrnyc22-scarlet/Reviews-Component
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
