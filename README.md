@@ -2,7 +2,7 @@
 
 > Project description
 
-<img src="https://gfycat.com/ifr/glitteringunluckycaracal" height="80%" width="80%">
+<img src="https://gfycat.com/ifr/glitteringunluckycaracal.gif" height="80%" width="80%">
 
 ## Related Projects
 
