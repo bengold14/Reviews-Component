@@ -1,6 +1,6 @@
 # Reviews-Component
 
-Reviews-Component is a project which copied the functionality and styling of the TripAdvisor Reviews Component from scratch.  It is a full stack web application, deployed on AWS EC2, and linked to in the Proxy server shown below:
+Reviews-Component is a project which copied the functionality and styling of the TripAdvisor Reviews Component (example: https://www.tripadvisor.com/Hotel_Review-g34467-d268715-Reviews-Cove_Inn_on_Naples_Bay-Naples_Florida.html) from scratch.  It is a full stack web application, deployed on AWS EC2, and linked to in the Proxy server shown below:
 
 ![reviews component](Deployed-Review-Component.gif)
 
