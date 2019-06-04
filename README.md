@@ -2,7 +2,7 @@
 
 > Project description
 
-<img src="https://thumbs.gfycat.com/DeliriousLinearDikkops-large.gif" height="80%" width="80%">
+<img src="https://thumbs.gfycat.com/DeliriousLinearDikkops-small.gif" height="80%" width="80%">
 
 ## Related Projects
 
