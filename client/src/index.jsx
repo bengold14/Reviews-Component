@@ -85,7 +85,7 @@ class App extends React.Component {
 
   getAllData () {
     // axios.get(`/review/${window.location.href.slice(-2)}`) //for local testing
-    axios.get(`http://3.16.89.92:3002/review/${window.location.href.slice(30)}`) //for deployed 
+    axios.get(`http://3.16.89.92:3002/review/${window.location.href.slice(33)}`) //for deployed 
     .then((results)=>{
       this.setState({
         data:results.data
