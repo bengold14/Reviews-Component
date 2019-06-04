@@ -6,10 +6,9 @@ Reviews-Component is a project which copied the functionality and styling of the
 
 ## Related Projects
 
-  - Proxy Server - https://github.com/bengold14/Ben-Proxy
-  - Maps Component - https://github.com/hrnyc22-scarlet/Photo-Carousel-Component (not mine)
-  - Image Component - https://github.com/hrnyc22-scarlet/locationService (not mine)
-
+  - Proxy Server - https://github.com/bengold14/Ben-Proxy 
+  - Maps Component - https://github.com/hrnyc22-scarlet/Photo-Carousel-Component Author: [Alan Zhao - Alan-Zhao-908](https://github.com/mrh11)
+  - Image Component - https://github.com/hrnyc22-scarlet/locationService Author: [Alan Zhao - Alan-Zhao-908](https://github.com/msyed1438)
 ## Getting Started 
 
 From within the root directory:
