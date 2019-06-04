@@ -2,10 +2,7 @@
 
 > Project description
 
-<img src="https://giant.gfycat.com/DeliriousLinearDikkops.gif" height="60%" width="60%">
-
 ![reviews component](Deployed-Review-Component.gif)
-
 
 ## Related Projects
 
