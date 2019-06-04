@@ -4,7 +4,7 @@
 
 <img src="https://giant.gfycat.com/DeliriousLinearDikkops.gif" height="60%" width="60%">
 
-![reviews component](Reviews-Component/DeliriousLinearDikkops-small.gif)
+![reviews component](DeliriousLinearDikkops-small.gif)
 
 
 ## Related Projects
