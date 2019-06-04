@@ -24,7 +24,7 @@ npm run start
 
 ```
 
-### Running on Local Machine (http://localhost:3002/hotels/{INSERTID#}/)
+### Running on Local Machine (http://{LOCAL-HOST}:3002/hotels/{INSERTID#}/)
 
 If running the project on a local machine comment out line 88 in index.jsx and uncomment out line 87 in the same file. This is to update the IP reference for the server.  The slice function may also need to be updated to return the hotel ID at the end of the URL.  
 
